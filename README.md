@@ -1,4 +1,3 @@
 # repo-ab
 
-more info
-and some more
+less info
